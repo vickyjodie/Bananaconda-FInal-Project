@@ -5,6 +5,11 @@ This repository contains files of Bananaconda's Project
 
 
 
+
+
+
+
+
 Bananaconda Team :
 
 - Vicky Jodie
@@ -17,8 +22,18 @@ Bananaconda Team :
 
 
 
+
+
+
+
 Our Project:
 E-Commerce Customer Churn Prediction
+
+
+
+
+
+
 
 
 
