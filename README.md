@@ -12,7 +12,9 @@ Bananaconda Team :
 - Fauziah Latifah
 
 Our Project:
+
 E-Commerce Customer Churn Prediction
 
 Target :
+
 Decrease customer churn rate and revenue churn rate
