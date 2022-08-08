@@ -5,12 +5,13 @@ This repository contains files of Bananaconda's Project
 
 
 Bananaconda Team :
-Vicky Jodie
-Dimas Darmawan
-Muhammad Hafidz Erdityo
-Nisa Awanis
-Triarni Yuni Putri Utami
-Fauziah Latifah
+
+- Vicky Jodie
+- Dimas Darmawan
+- Muhammad Hafidz Erdityo
+- Nisa Awanis
+- Triarni Yuni Putri Utami
+- Fauziah Latifah
 
 Our Project:
 E-Commerce Customer Churn Prediction
