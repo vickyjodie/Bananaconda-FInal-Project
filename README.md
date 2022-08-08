@@ -1,6 +1,7 @@
 # Bananaconda-Final-Project
 
-Final Project Rakamin Academy Data Science Bootcamp Batch 22
+Final Project Rakamin Academy Data Science Bootcamp Batch 22.
+
 This repository contains files of Bananaconda's Project
 
 Bananaconda Team :
@@ -17,4 +18,4 @@ E-Commerce Customer Churn Prediction
 
 Target :
 
-Decrease customer churn rate and revenue churn rate
+Decrease Customer Churn Rate & Revenue Churn Rate
