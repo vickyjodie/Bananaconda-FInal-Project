@@ -1,5 +1,6 @@
 # Bananaconda-Final-Project
 
+Final Project: E-Commerce Customer Churn Analysis & Prediction.
 Final Project Rakamin Academy Data Science Bootcamp Batch 22.
 
 This repository contains files of Bananaconda's Project
